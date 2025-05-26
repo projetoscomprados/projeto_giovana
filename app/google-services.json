@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "295020930533",
+    "firebase_url": "https://projeto-bruno-43704-default-rtdb.firebaseio.com",
+    "project_id": "projeto-bruno-43704",
+    "storage_bucket": "projeto-bruno-43704.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:295020930533:android:9e743e1477951786d5bb0c",
+        "android_client_info": {
+          "package_name": "com.example.projeto_giovana"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAA7ZkyxxQjXGN4wi8BBbNjTYSb7G9qIYI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:295020930533:android:f0e5c781dd7844a3d5bb0c",
+        "android_client_info": {
+          "package_name": "com.example.projeto_giovana2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAA7ZkyxxQjXGN4wi8BBbNjTYSb7G9qIYI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
